@@ -1,21 +1,17 @@
 ### Hi there 👋
 
+<img width="auto" src="https://github.com/tgmarinho/tgmarinho/blob/master/banner.png">
 
-Anglesson is a systems analyst at Rede Damas Educacional, where he supports and trains people to use the TOTVS system. In addition, web software development. Anglesson is focused in the development of web app for help in communication between pupils and coaches in the gyms. Anglesson loves the sun, the sea, getting to know new places and new cultures.
 
-- 🌱 I’m currently learning React!
-- 📫 How to reach me: anglesson@hotmail.com
-<!--
-**anglesson/anglesson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Anglesson Araújo
 
-Here are some ideas to get you started:
+## Olá pessoal 👋
+Sou apaixonado por resolver problemas utilizando a programação.
+Sou um FullStack Developer :computer:
 
-- 🔭 I’m currently working on Rede Damas Educacional
-- 🌱 I’m currently learning React!
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: anglesson@hotmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ :school:  &nbsp; Estou trabalhando na **Rede Damas Educacional**
+ <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React
+ <br/> :blush: &nbsp; Posso te ajudar com CSS Grid Layout e Flexbox
+ <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js, React Native & Typescript
+ <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games PES, PUBG e seriados no Netflix
+ <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-ThiagoMarinho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anglesson/)](https://www.linkedin.com/in/anglesson/) 
