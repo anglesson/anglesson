@@ -1,7 +1,7 @@
 # Anglesson Araújo
 ## Olá pessoal 👋
 Sou apaixonado por resolver problemas utilizando a programação.
-Sou um FullStack Developer :computer:
+Sou um Full Stack Developer :computer:
 
  :school:  &nbsp; Estou trabalhando na **Gran Cursos Online**
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React
